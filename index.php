@@ -36,10 +36,11 @@ echo "<hr>";
 
 
 try {
-    echo $calc->add(45, 0.2); 
-} catch (\TypeError $e) {
-    // Подчищаем за собой и записываем информацию об ошибке в лог
+    echo $calc->div(45, 0); 
+    print_r("ok" . "\n");
+} catch (\Error $e) {
     echo $e->getMessage();
+    print_r("error" . "\n");
 }
 echo "<hr>";
 ?>
