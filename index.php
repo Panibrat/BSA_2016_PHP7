@@ -34,6 +34,22 @@ echo "<hr>";
 echo $calc->twopow(8);
 echo "<hr>";
 
+$file = 'log.txt';
+$current = file_get_contents($file);
+$date = new DateTime();
+$date = $date->format("y:m:d h:i:s");
+$current .= $date. " Error\n";
+file_put_contents($file, $current);
+
+
+
+
+
+
+
+
+
+
 
 try {
     echo $calc->div(45, 0); 
