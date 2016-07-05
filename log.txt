@@ -3,3 +3,46 @@
 16:07:04 08:54:34 John Smith
 16:07:04 08:54:34 John Smith
 16:07:04 08:54:35 John Smith
+16:07:04 09:15:58 Error
+16:07:04 09:22:38 Error
+16:07:04 09:22:39 Error
+16:07:04 09:25:12 Error
+16:07:04 09:25:52 Error
+16:07:04 09:54:23 Error
+16:07:04 09:55:51 Error
+ qwqwError
+16:07:04 10:04:00 Error
+16:07:04 10:05:08 qwqwError
+16:07:04 10:05:08 Error
+16:07:04 10:05:13 qwqwError
+16:07:04 10:05:13 Error
+16:07:04 10:05:13 qwqwError
+16:07:04 10:05:13 Error
+16:07:04 10:05:14 qwqwError
+16:07:04 10:05:14 Error
+16:07:04 10:05:14 qwqwError
+16:07:04 10:05:14 Error
+16:07:04 10:41:12  we50er  rt qw
+16:07:04 10:41:12 Error
+16:07:04 10:41:52  we+er 45 5 rt 50qw
+16:07:04 10:41:52 Error
+16:07:04 10:42:20  we+er 45 5 rt 50qw
+16:07:04 10:42:20 Error
+16:07:04 10:43:26  operator: + operands: 45 5 result: 50
+16:07:04 10:43:26 Error
+16:07:04 10:43:28  operator: + operands: 45 5 result: 50
+16:07:04 10:43:28 Error
+16:07:04 10:43:30  operator: + operands: 45 5 result: 50
+16:07:04 10:43:30 Error
+16:07:04 10:43:57  operator: + operands: 45 and 5 result: 50
+16:07:04 10:43:57 Error
+16:07:04 10:43:58  operator: + operands: 45 and 5 result: 50
+16:07:04 10:43:58 Error
+16:07:04 10:49:08  operator: + operands: 45 and 5 result: 50
+16:07:04 10:49:09  operator: + operands: 45 and 5 result: 50
+16:07:04 10:49:20  operator: + operands: 45 and 5 result: 50
+16:07:04 10:51:39  operator: + operands: 45 and 5 result: 50
+16:07:04 10:54:26  operator: + operands: 45 and 5 result: 50
+16:07:05 08:42:14  operator: + operands: 45 and 5 result: 50
+16:07:05 08:42:16  operator: + operands: 45 and 5 result: 50
+16:07:05 08:42:33  operator: + operands: 35 and 5 result: 40
