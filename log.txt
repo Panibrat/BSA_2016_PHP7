@@ -1,8 +1,3 @@
-16:07:04 08:53:15 John Smith
-16:07:04 08:54:31 John Smith
-16:07:04 08:54:34 John Smith
-16:07:04 08:54:34 John Smith
-16:07:04 08:54:35 John Smith
 16:07:04 09:15:58 Error
 16:07:04 09:22:38 Error
 16:07:04 09:22:39 Error
@@ -46,3 +41,12 @@
 16:07:05 08:42:14  operator: + operands: 45 and 5 result: 50
 16:07:05 08:42:16  operator: + operands: 45 and 5 result: 50
 16:07:05 08:42:33  operator: + operands: 35 and 5 result: 40
+16:07:05 10:44:38  operator: + operands: 35 and 5 result: 40
+16:07:05 07:17:20  operator: + operands: 35 and 5 result: 40
+16:07:05 07:17:29  operator: + operands: 35 and 5 result: 40
+16:07:05 07:17:47  operator: + operands: 35 and 5 result: 40
+16:07:05 08:08:43  operator: + operands: 35 and 5 result: 40
+16:07:05 08:34:15  operator: + operands: 35 and 5 result: 40
+16:07:05 08:41:21  operator: + operands: 35 and 5 result: 40
+16:07:05 08:41:31  operator: + operands: 35 and 5 result: 40
+16:07:07 11:49:02  operator: + operands: 35 and 5 result: 40
